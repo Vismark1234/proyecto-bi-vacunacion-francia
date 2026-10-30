@@ -1,0 +1,25 @@
+campo_base;indicador_nombre;unidad;tipo_medida;agregacion_recomendada
+n_dose1;Personas con primera dosis;personas;diaria;SUM
+n_dose2;Personas con segunda dosis;personas;diaria;SUM
+n_dose3;Personas con tercera dosis;personas;diaria;SUM
+n_dose4;Personas con cuarta dosis;personas;diaria;SUM
+n_complet;Personas que completaron esquema inicial;personas;diaria;SUM
+n_rappel;Personas con primer refuerzo;personas;diaria;SUM
+n_2_rappel;Personas con segundo refuerzo;personas;diaria;SUM
+n_3_rappel;Personas con tercer refuerzo;personas;diaria;SUM
+n_rappel_biv;Personas con refuerzo bivalente;personas;diaria;SUM
+n_cum_dose1;Primera dosis acumulada;personas;acumulada;LASTNONBLANK
+n_cum_dose2;Segunda dosis acumulada;personas;acumulada;LASTNONBLANK
+n_cum_dose3;Tercera dosis acumulada;personas;acumulada;LASTNONBLANK
+n_cum_dose4;Cuarta dosis acumulada;personas;acumulada;LASTNONBLANK
+n_cum_complet;Esquema inicial completo acumulado;personas;acumulada;LASTNONBLANK
+n_cum_rappel;Primer refuerzo acumulado;personas;acumulada;LASTNONBLANK
+n_cum_2_rappel;Segundo refuerzo acumulado;personas;acumulada;LASTNONBLANK
+n_cum_3_rappel;Tercer refuerzo acumulado;personas;acumulada;LASTNONBLANK
+n_cum_rappel_biv;Refuerzo bivalente acumulado;personas;acumulada;LASTNONBLANK
+couv_dose1;Cobertura de primera dosis;porcentaje;cobertura;LASTNONBLANK
+couv_complet;Cobertura de esquema completo;porcentaje;cobertura;LASTNONBLANK
+couv_rappel;Cobertura de primer refuerzo;porcentaje;cobertura;LASTNONBLANK
+couv_2_rappel;Cobertura de segundo refuerzo;porcentaje;cobertura;LASTNONBLANK
+couv_3_rappel;Cobertura de tercer refuerzo;porcentaje;cobertura;LASTNONBLANK
+couv_rappel_biv;Cobertura de refuerzo bivalente;porcentaje;cobertura;LASTNONBLANK

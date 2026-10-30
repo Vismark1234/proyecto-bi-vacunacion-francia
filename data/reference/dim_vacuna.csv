@@ -1,0 +1,13 @@
+vaccin;vacuna_nombre;fabricante;documentado_en_fuente;es_total
+0;Todas las vacunas;Todos;1;1
+1;Comirnaty 30 adulto;Pfizer/BioNTech;1;0
+2;Spikevax;Moderna;1;0
+3;Vaxzevria;AstraZeneca;1;0
+4;Janssen;Johnson & Johnson;1;0
+5;Comirnaty 10 pediátrica;Pfizer/BioNTech;1;0
+6;Nuvaxovid;Novavax;1;0
+8;Código 8 no descrito en el catálogo publicado;No documentado;0;0
+9;Spikevax bivalente;Moderna;1;0
+10;VidPrevtyn Beta;Sanofi;1;0
+11;Comirnaty 3 pediátrica, 6 meses-4 años;Pfizer/BioNTech;1;0
+12;Spikevax bivalente original/Ómicron BA.5;Moderna;1;0

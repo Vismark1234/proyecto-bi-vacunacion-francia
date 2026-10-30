@@ -1,0 +1,26 @@
+# Python y Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Salidas regenerables del ETL
+data/processed/*.csv
+data/processed/*.parquet
+data/staging/
+logs/
+
+# SQL Server y Power BI: archivos temporales o copias locales
+*.bak
+*.trn
+*.tmp
+*.pbit.tmp
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+

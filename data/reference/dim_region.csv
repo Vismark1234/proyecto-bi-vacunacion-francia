@@ -1,0 +1,21 @@
+reg;region_nombre;tipo_territorio;pais
+01;Guadeloupe;Ultramar;Francia
+02;Martinique;Ultramar;Francia
+03;Guyane;Ultramar;Francia
+04;La Réunion;Ultramar;Francia
+06;Mayotte;Ultramar;Francia
+07;Saint-Barthélemy;Colectividad de ultramar;Francia
+08;Saint-Martin;Colectividad de ultramar;Francia
+11;Île-de-France;Metropolitano;Francia
+24;Centre-Val de Loire;Metropolitano;Francia
+27;Bourgogne-Franche-Comté;Metropolitano;Francia
+28;Normandie;Metropolitano;Francia
+32;Hauts-de-France;Metropolitano;Francia
+44;Grand Est;Metropolitano;Francia
+52;Pays de la Loire;Metropolitano;Francia
+53;Bretagne;Metropolitano;Francia
+75;Nouvelle-Aquitaine;Metropolitano;Francia
+76;Occitanie;Metropolitano;Francia
+84;Auvergne-Rhône-Alpes;Metropolitano;Francia
+93;Provence-Alpes-Côte d'Azur;Metropolitano;Francia
+94;Corse;Metropolitano;Francia

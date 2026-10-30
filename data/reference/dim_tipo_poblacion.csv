@@ -1,0 +1,4 @@
+tipo_poblacion_key;tipo_poblacion_nombre;descripcion
+1;Población general;Personas residentes incluidas en los indicadores generales VAC-SI
+2;Profesionales EHPAD/USLD;Profesionales identificados en establecimientos para mayores dependientes o cuidados de larga duración
+3;Residentes EHPAD/USLD;Residentes identificados en establecimientos para mayores dependientes o cuidados de larga duración
